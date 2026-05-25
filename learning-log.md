@@ -13,3 +13,4 @@ I'm learning Git and Version control to track my work
 ## What I learned Today
 
 - Git tracks changes to files over time
+- Every commit is a snapshot you can go back to
